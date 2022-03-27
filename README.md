@@ -1,2 +1,2 @@
-# DS220-ANALISE-E-PROJETO-DE-SISTEMAS-I
+# DS010	ADMINISTRAÇÃO DE SISTEMAS
 Disciplina do primeiro período do curso
